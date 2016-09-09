@@ -16,7 +16,6 @@ int locate[100];
 
 int count=0;
 
-
 int find(int index)
 {
     int r;
